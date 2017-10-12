@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Resep Makanan</string>
+    <string name="judul_item">Judul</string>
+    <string name="dekripsi_item">Deksripsi</string>
+
+    <string-array name="judul_item">
+        <item>Sayur Bayam Bening</item>
+        <item>Sayur Sop Ayam Makaroni</item>
+        <item>Sop Ayam Jagung Manis dan Bayam</item>
+        <item>Sop Ceker Ayam</item>
+    </string-array>
+
+    <string-array name="deskripsi_item">
+        <item>
+            Salah satu resep masakan sehari-hari yang wajib kita sajikan sebagai selingan menu
+            dirumah adalah sayur bayam bening ini. Resep ini merupakan warisan dari orang tua kita dahulu.
+            Cara membuat beserta bahan dan bumbu yang diperlukan untuk membuat sayur bening ini sangat praktis dan
+            mudah didapat.
+        </item>
+
+        <item>
+            Sayur sop merupakan salah satu resep masakan sehari-hari yang sangat populer dan disukai oleh banyak orang.
+            Isinya yang lengkap, mulai dari wortel, kol dan sayuran lainnya memberikan gizi dan
+            vitamin yang bagus buat sehari-hari. Selain itu rasa gurih dari bumbu sop ayam makaroni dan kaldu ayamnya
+            memang sangat enak dan lezat untuk menu makanan sehari hari.
+        </item>
+
+        <item>
+            Sop ini sangat cocok sekali untuk hidangan sehar hari bersama dengan keluarga.
+            Rasa yang gurih dipadu dengan bayam dan jagung manis dijamin bisa menggugah selera dan mengatasi kebosanan
+            dengan resep masakan sehari-hari yang biasanya.
+        </item>
+
+        <item>
+            Hampir semua bagian dari ayam bisa digunakan.
+            Salah satunya yang kadang dipandang sebelah mata adalah ceker atau kaki ayam.
+            Dengan menggunakan bumbu sup ceker yang tepat, bagian tubuh ayam ini bisa diolah dan dimasak menjadi
+            salah satu resep masakan sehari-hari yang enak dan nikmat.
+            Apalagi kandungan kaldu dan kalsium di ceker ayam ini juga sangat bagus buat pertumbuhan tulang anak-anak.
+        </item>
+
+    </string-array>
+
+    <string-array name="bahan_bahan">
+        <item>
+            1. Bayam segar kurang lebih 2 ikat saja. Cuci bersih lalu petik dan buang bagian pangkalnya.\n
+            2. Buah tomat ukuran sedang besar kurang lebih sebanyak 1 pcs.\n
+            3. Bawang putih kurang lebih sebanyak 1 pcs saja. Kupas kulitnya lalu iris-iris tipis.\n
+            4. Jagung manis segar yang sudah dipotong potong sesuai selera kurang lebih sebanyak 1 pcs saja.\n
+            5. Gula pasir putih secukupnya sesuai selera.\n
+            6. Kaldu instan rasa ayam secukupnya sesuai selera.\n
+            7. Garam dapur beryodium secukupnya sesuai selera.\n
+            8. Air bersih secukupnya.\n
+        </item>
+
+        <item>
+            1. Bawang merah ukuran sedang besar kurang lebih sebanyak 4 siung saja. Kupas kulit bawang merahnya lalu potong-potong supaya mudah saat akan diuleg nantinya.\n
+            2. Bawang putih ukuran sedang besar kurang lebih sebanyak 2 siung saja. Kupas kulit bawangnya lalu potong-potong supaya mudah saat akan diuleg nantinya.\n
+            3. Kaldu ayam bubuk kualitas bagus secukupnya sesuai selera. Gunakan yang berkualitas untuk menambah citarasa di kuah kaldunya.\n
+            4. Lada putih halus secukupnya sesuai selera.\n
+            5. Gula pasir putih secukupnya sesuai selera.\n
+            6. Garam dapur beryodium secukupnya sesuai selera.\n
+        </item>
+
+        <item>
+            1.  Kaldu Ayam sebanyak 1 liter (Gunakan 10-15 pcs ceker ayam dan bagian ayam yang lain untuk pembuatan kaldunya).\n
+            2.  Daging Ayam Dada yang sudah di filet sebnyak 250 gram. Potong kecil-kecil dengan bentuk dadu dengan ukuran kurang lebih 2 cm-3 cm.\n
+            3.  Wortel segar ukuran sedang besar sebanyak 2 pcs. Kupas kulitnya dan potong kecil-kecil dengan bentuk dadu (ukuran bisa disamakan dengan potongan ayam di atas).\n
+            4.  Bayam bersih dan segar sebanyak 1 ikat besar. Cuci bersih, buang tangkai dan ambil bagian daunya saja.\n
+            5.  Jagung manis segar sebanyak 1 buah. Ambil butir jagungnya saja.\n
+            6.  Bawang putih lokal sebanyak 1 pcs. Kupas kulit bawang dan cincang halus (nanti untuk bumbu tumis).\n
+            7.  Bawang bombay ukuran sedang besar sebanyak setengah pcs. Kupas kulit dan cincang kasar.\n
+            8.  Pala halus atau pala bubuk sebanyak seperempat sendok kecil atau sendok teh.\n
+            9.  Garam dapur halus beryodium sebanyak satu sendok teh atau sendok kecil.\n
+            10. Buah Cengkih 1 pcs.\n
+            11. Seledri segar 1 atau 2 batang, diikat.\n
+            12. Merica halus atau bubuk sebanyak seperempat sendok teh kecil. Bisa disesuaikan apabila anda tidak terlalu suka pedas.\n
+            13. Daun Bawang segar sebanyak 2 pcs. Cuci dan iris tipis-tipis.\n
+            14. Minyak goreng secukupnya untuk menumis bumbunya nanti.\n
+        </item>
+
+        <item>
+            1.  Sesuai namanya, resep ayam kali ini membutuhkan bahan utama kaki ayam kurang lebih sebanyak 8 sampai 10 pcs. Bersihkan ceker ayam sampai benar benar bersih dan pastikan semua kukunya dan kulit ari yang menempel hilang dan sudah bersih.\n
+            2.  Wortel segar ukuran sedang besar kurang lebih sebanyak 3 sampai 4 batang. Cuci bersih lalu kupas kulitnya kemudian iris iris sesuai selera.\n
+            3.  Seledri yang segar kurang lebih sebanyak 1-2 pcs. Cuci bersih lalu potong kecil-kecil.\n
+            4.  Kentang ukuran sedang besar kurang lebih sebanyak 2 pcs saja. Kupas kulit kentangnya lalu potong sedang benduk dadu.\n
+            5.  Buah Tomat ukuran sedang kurang lebih sebanyak 1 sampai 2 buah. Cuci bersih lalu iris tomat sesuai selera.\n
+            6.  Daun bawang segar kurang lebih sebanyak 1 sampai 2 batang. Cuci bersih lalu iris tipis-tipis.\n
+            7.  Gula pasir secukupnya sesuai selera atau kurang lebih sebanyak setengah sendok kecil.\n
+            8.  Merica bubuk atau halus secukupnya sesuai selera. Bisa dihilangkan kalau memang anak-anak benar-benar tidak suka pedas.\n
+            9.  Minyak goreng secukupnya untuk menumis bumbu halusnya.\n
+            10. Air bersih secukupnya.\n
+            11. Bawang merah ukuran sedang besar kurang lebih sebanyak 4 siung (untuk bumbu halus).\n
+            12. Bawang putih ukuran sedang besar kurang lebih sebanyak 6-7 siung (untuk bumbu halus).\n
+            13. Garam dapur secukupnya untuk campuran bumbu halusnya (untuk bumbu halus).\n
+            14. Bawang merah goreng secukupnya untuk bahan taburan sayur sopnya.\n
+        </item>
+
+    </string-array>
+
+    <string-array name="cara_membuat">
+        <item>
+            1. Siapkan panci dan beri air secukupnya. Masak sampai mendidih.\n
+            2. Masukkan potongan jagung manisnya bersama dengan potongan jagung manisnya.\n
+            3. Aduk aduk sebentar dan masak sampai jagungnya hampir matang.\n
+            4. Masukkan sayuran bayam bersama irisan buah tomatnya dan kaldu instan ayam secukupnya. Aduk aduk sampai semua bahan tercampur rata.\n
+            5. Masukkan gula pasir dan garam dapur beryodium secukupnya sesuai selera dan aduk aduk kembali sampai semua bahan tercampur rata.\n
+            6. Setelah semua bahan matang, tes rasanya dan tambahkan kaldu, gula dan garam kalau diperlukan.\n
+            7. Angkat dan sajikan resep masakan sehari-hari yang sederhana ini saat masih hangat.\n
+
+        </item>
+
+        <item>
+            1. Langkah pertama cuci bersih sayap ayam yang akan digunakan dengan air mengalir sampai benar benar bersih dari kotoran.\n
+            2. Haluskan bumbu bumbu yang akan digunakan, seperti bawang merah, bawang putih, kaldu ayam, gula, garam dan lada sampai benar benar halus.\n
+            3. Siapkan wajan penggorengan dan beri minyak secukupnya. Masukkan bumbu sop yang sudah dihaluskan diatas lalu aduk aduk sampai tercium bau harum khas tumisannya.\n
+            4. Tuang air bersih yang sudah disiapkan sebelumnya lalu aduk aduk supaya tercampur dengan bumbunya sampai mendidih airnya.\n
+            5. Masukkan sayap ayam yang sudah dicuci bersih sebelumnya ke dalam wajan penggorengan diatas lalu masak sampai daging ayamnya matang dan empuk. Jangan lupa sesekali diaduk aduk supaya tercampur dengan bumbu lainnya.\n
+            6. Setelah daging ayamnya matang, masukkan bermacam sayuran yang sudah dipotong sebelumnya, seperti kentang dan wortel kemudian aduk aduk sebentar dan masak sampai matang.\n
+            7. Masukkan makaroninya lalu aduk aduk sebentar sampai makaroninya matang.\n
+            8. Setelah semuanya matang, masukkan potongan daun seledri, daun bawang, kol dan potongan buncisnya kemudian aduk aduk sebentar sampai semua bahan matang.\n
+            9. Cicipi dahulu dan tambahkan garam dapur, gula pasir atau kaldu ayam kalau diperlukan.\n
+            10 Setelah semuanya empuk kemudian angkat dan sajikan di mangkuk hidangan.\n
+
+        </item>
+
+        <item>
+            1. Langkah pertama rebus potongan daging ayam dengan kuah kaldu yang sudah dibuat. Rebus dengan api sedang hingga daging ayam nya lunak dan matang.
+            2. Angkat daging ayam nya dan taruh di tempat berbeda.
+            3. Ambil penggorengan dan nyalakan dengan api sedang cenderung kecil.
+            4. Isi dengan minyak sedikit, masukkan dan tumis bawang bombay cincang dan bawang putih cincangnya sampai harum.
+            5. Rebus lagi kaldu ayam di atas dan masukkan tumisan bawang di atas. Aduk sebentar sampai tercampur rata.
+            6. Masukkan daun seledri, seperempat sendok merica, cengkih, pala bubuk dan satu sendok teh garam dapur. Aduk semua bahan sampai tercampur rata dan mendidih.
+            7. Masukkan potongan wortel dan butiran jagung manis nya. Aduk kembali hingga wortel dan jagung terasa empuk.
+            8. Terakhir masukkan sayurannya (daun bawang dan bayam). Aduk dan masak sebentar aja sampai agak layu. Jangan terlalu lama memasak bayam nya.
+
+        </item>
+
+        <item>
+            1.  Langkah pertama untuk membuat sup ceker adalah masak dan rebus ceker ayamnya sampai agak empuk. Bisa juga dipresto dengan panci tekanan supaya benar benar empuk sampai ke tulangnya lalu sisihkan. Ambil sebagian air rebusan untuk membuat kuah kaldunya.
+            2.  Haluskan bawang putih, bawang merah dan beri garam dapur beryodium secukupnya dengan cara di uleg supaya lebih harum.
+            3.  Siapkan penggorengan dengan api sedang kecil lalu beri minyak secukupnya untuk menumis bumbu yang sudah dihaluskan diatas.
+            4.  Masukkan bumbu halusnya lalu bolak balik supaya tercampur rata dan tidak gosong. Masak sampai tercium bau harum dari tumisan bumbunya.
+            5.  Masukkan potongan kentang, wortel, merica lalu aduk aduk supaya semua bahan tercampur rata.
+            6.  Tuang air kaldu bekas merebus cekernya (secukupnya saja) lalu aduk aduk kembali supaya semua bahan tercampur rata.
+            7.  Masukkan potongan buah tomat dan ceker ayamnya lalu aduk aduk kembali.
+            8.  Masukkan irisan seledri, daun bawang dan garam dapur beryodium secukupnya. Aduk aduk supaya semua bahan tercampur rata.
+            9.  Masak sampai semua bahan matang dan cicipi dulu. Tambahkan garam dapur beryodium dan gula kalau diperlukan.
+            10. Angkat dan sajikan di mangkok hidangan dengan taburan bawang merah goreng diatasnya.
+        </item>
+
+    </string-array>
+
+
+</resources>
